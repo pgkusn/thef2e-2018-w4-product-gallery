@@ -1,0 +1,29 @@
+{
+  "name": "w4-product-gallery",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --base=/w4-product-gallery/",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.1.2",
+    "@vue/compiler-sfc": "^3.0.5",
+    "@vue/eslint-config-standard": "^6.0.0",
+    "autoprefixer": "^10.2.5",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.18.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^5.0.0",
+    "eslint-plugin-vue": "^7.0.0-beta.4",
+    "postcss": "^8.2.8",
+    "sass": "^1.32.8",
+    "tailwindcss": "^2.0.3",
+    "vite": "^2.0.0-beta.45"
+  }
+}
